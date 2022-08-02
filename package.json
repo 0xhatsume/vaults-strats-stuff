@@ -1,0 +1,20 @@
+{
+  "name": "vaults-strats-stuff",
+  "version": "1.0.0",
+  "description": "Tryin to make sense of vaults, strats and stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@hatsumegit:0xhatsume/vaults-strats-stuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@openzeppelin/contracts": "^4.7.2",
+    "hardhat": "^2.10.1"
+  }
+}

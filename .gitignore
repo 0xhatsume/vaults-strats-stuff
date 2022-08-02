@@ -1,0 +1,16 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts/*
+#!artifacts/build-info/
+#!artifacts/contracts/
+package-lock.json
+
+#IDEs
+.vscode/
+.DS_Store
